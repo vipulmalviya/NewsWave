@@ -1,0 +1,137 @@
+
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Manish Singh",
+        "title": "Indian court ruling threatens Google's advertising revenue model | TechCrunch",
+        "description": "The Delhi High Court has ruled that Google's Ads Programme falls under the purview of the trademarks act, meaning the search giant's use of trademarks as",
+        "url": "https://techcrunch.com/2023/08/14/indian-court-ruling-threatens-google-advertising-revenue-model/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1238035708.jpg?resize=1200,800",
+        "publishedAt": "2023-08-15T04:22:36Z",
+        "content": "The Delhi High Court has ruled that Google’s Ads Programme falls under the purview of the trademarks act, meaning the search giant’s use of trademarks as keywords amounts to “use” under the act, in a… [+2374 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Aria Alamalhodaei",
+        "title": "Rocket Lab to launch a pair of climate satellites for NASA | TechCrunch",
+        "description": "Rocket Lab will launch a pair of satellites for NASA that will help scientists better understand the effects of global warming on sea ice.",
+        "url": "https://techcrunch.com/2023/08/14/rocket-lab-to-launch-a-pair-of-climate-satellites-for-nasa/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/rocket-lab-electron-virginia.jpeg?resize=1200,800",
+        "publishedAt": "2023-08-15T01:22:28Z",
+        "content": "Rocket Lab will launch two small satellites for NASA that could help scientists better understand how a warming climate will affect the massive ice shelves at the Earths poles.\r\nThe PREFIRE (Polar Ra… [+1845 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Brian Heater",
+        "title": "OnePlus takes on the wet touchscreen problem | TechCrunch",
+        "description": "OnePlus is showcasing “Rain Water Touch,” a feature designed make wet touchscreens more useable on the Ace 2 Pro.",
+        "url": "https://techcrunch.com/2023/08/14/oneplus-takes-on-the-wet-touchscreen-problem/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Screenshot-2023-08-14-at-6.00.28 PM.jpg?resize=1200,663",
+        "publishedAt": "2023-08-14T22:04:15Z",
+        "content": "I got caught in the rain twice last week. That probably says more about my general lack of preparedness than anything, of course, but I was reminded both times how much is sucks attempting to use a w… [+1096 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Brian Heater",
+        "title": "Amazon’s devices chief is stepping down this year | TechCrunch",
+        "description": "David Limp is set to step down from his role as head of Amazon’s consumer devices division later this year.",
+        "url": "https://techcrunch.com/2023/08/14/amazons-devices-chief-is-stepping-down-this-year/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/09/amazon_hardware-6638.jpg?resize=1200,778",
+        "publishedAt": "2023-08-14T21:32:42Z",
+        "content": "David Limp is set to step down from his role as head of Amazons consumer devices division later this year. Amazon has confirmed the news with TechCrunch, following a Wall Street Journal report.\r\nLimp… [+2465 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Claude Cummings Jr.",
+        "title": "A merger that’s good for workers and consumers | TechCrunch",
+        "description": "Thanks to the regulatory process, this deal will significantly enhance competition in the video game industry while securing workers' rights and consumer interests.",
+        "url": "https://techcrunch.com/2023/08/14/a-merger-thats-good-for-workers-and-consumers/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1538535263.jpg?resize=1200,800",
+        "publishedAt": "2023-08-14T20:27:22Z",
+        "content": "After an exhaustive review by regulators in the United States and across the globe, Microsofts proposed acquisition of Activision Blizzard is on track to close later this year. The European Commissio… [+4866 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Alex Wilhelm",
+        "title": "Monday.com shows it's possible to post great results even in a slow market | TechCrunch",
+        "description": "Monday.com is continuing its streak of quick growth following its IPO. In addition to reporting a 42% rise in its revenue for the second quarter of 2023,",
+        "url": "https://techcrunch.com/2023/08/14/no-excuses-do-better/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-GRN.jpg?resize=1200,900",
+        "publishedAt": "2023-08-14T18:52:00Z",
+        "content": "Monday.com is continuing its streak of quick growth following its IPO.\r\nIn addition to reporting a 42% rise in its revenue for the second quarter of 2023, the cloud-based platform that lets users cre… [+1686 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Zack Whittaker",
+        "title": "SecureWorks layoffs affect 15% staff | TechCrunch",
+        "description": "It's the cybersecurity company's second round of layoffs this year, following an earlier 9% workforce reduction in February.",
+        "url": "https://techcrunch.com/2023/08/14/secureworks-second-round-layoffs-this-year/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/04/secureworks.jpg?resize=1200,676",
+        "publishedAt": "2023-08-14T17:50:57Z",
+        "content": "SecureWorks said Monday it will let go of 15% of its workforce, the cybersecurity company’s second round of layoffs this year.\r\nIn a regulatory filing, SecureWorks said that it would incur about $14.… [+977 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Aisha Malik",
+        "title": "Telegram rolls out its Stories feature to all users | TechCrunch",
+        "description": "Telegram is officially rolling out its Stories feature to all of its users, the company announced on Monday.",
+        "url": "https://techcrunch.com/2023/08/14/telegram-rolls-out-its-stories-feature-to-all-users/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/telegram-stories.jpg?resize=1200,737",
+        "publishedAt": "2023-08-14T17:42:26Z",
+        "content": "Telegram is officially rolling out Stories to all users, the company announced on Monday. The feature first launched to Premium users last month, and is now available to everyone on the platform. Tod… [+2241 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Neesha A. Tambe and Lauren Simonds",
+        "title": "Atomic, GV, & SOSV join the Startup Battlefield judges lineup at TechCrunch Disrupt 2023 | TechCrunch",
+        "description": "Investors from Atomic, GV and SOSV will join the team of Startup Battlefield judges at TechCrunch Disrupt 2023.",
+        "url": "https://techcrunch.com/2023/08/14/atomic-gv-sosv-join-the-startup-battlefield-judges-lineup-at-techcrunch-disrupt-2023/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/tc_disrupt_2023_speaker-carousel_Dame_Cypher_Bronson_1920x1080-3-speakers.jpg?resize=1200,675",
+        "publishedAt": "2023-08-14T01:01:23Z",
+        "content": "The Startup Battlefield pitch competition is a Silicon Valley legend thats reached far beyond its Bay Area beginnings. Its a global launching pad for some of the most successful tech companies, inclu… [+4195 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Aria Alamalhodaei",
+        "title": "Max Q: More propulsion troubles on-orbit | TechCrunch",
+        "description": "TechCrunch's weekly newsletter dedicated to all things space, including launch, satellites, space stations and more.",
+        "url": "https://techcrunch.com/2023/08/14/max-q-more-propulsion-troubles-on-orbit/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/tc-space-stars.gif?w=946",
+        "publishedAt": "2023-08-11T21:24:59Z",
+        "content": "Hello, and welcome back to Max Q!\r\nIn this issue:\r\n<ul><li>More propulsion troubles on-orbit</li><li>News from Astranis and more</li></ul>By the way . . . Were out-of-this-world excited to announce t… [+2335 chars]"
+      }
+    ]
+  }
