@@ -14,8 +14,8 @@ const app = () => {
     <Router>
       <div>
         <Navbar />
-        <Routes basename="/newswave">
-          <Route exact path="/newswave" element={<Newscomonents key={'business'} pageSize={pageSize} country={'in'} category='business' />} />
+        <Routes>
+          <Route exact path="/" element={<Newscomonents key={'business'} pageSize={pageSize} country={'in'} category='business' />} />
           <Route exact path="/Entertainment" element={<Newscomonents key={'entertainment'} pageSize={pageSize} country={'in'} category='entertainment' />} />
           <Route exact path="/General" element={<Newscomonents key={'general'} pageSize={pageSize} country={'in'} category='general' />} />
           <Route exact path="/Health" element={<Newscomonents key={'health'} pageSize={pageSize} country={'in'} category='health' />} />
