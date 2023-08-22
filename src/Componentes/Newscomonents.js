@@ -72,16 +72,4 @@ const Newscomonents = (props) => {
   )
 }
 
-
-
-// Newscomonents.defaultProps = {
-//   country: 'in',
-//   pageSize: 8,
-//   category: 'general'
-// }
-// Newscomonents.propTypes = {
-//   country: 'PropTypes.string',
-//   pageSize: 'PropTypes.number',
-//   category: 'PropTypes.string'
-// }
 export default Newscomonents
