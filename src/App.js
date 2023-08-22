@@ -3,7 +3,7 @@ import React from 'react'
 import Navbar from './Componentes/Navbar';
 import Newscomonents from './Componentes/Newscomonents';
 import {
-  HashRouter,
+  BrowserRouter as Router,
   Route,
   Routes
 } from "react-router-dom";
@@ -11,8 +11,7 @@ import {
 const app = () => {
   const pageSize = 8;
   return (
-    <HashRouter basename='/newswave'>
-      <div>
+    <Router>
         <Navbar />
         <Routes>
           <Route exact path="/" element={<Newscomonents key={'business'} pageSize={pageSize} country={'in'} category='business' />} />
@@ -23,8 +22,7 @@ const app = () => {
           <Route exact path="/Technology" element={<Newscomonents key={'technology'} pageSize={pageSize} country={'in'} category='technology' />} />
           <Route exact path="/Sports" element={<Newscomonents key={'sports'} pageSize={pageSize} country={'in'} category='sports' />} />
         </Routes>
-      </div>
-    </HashRouter>
+    </Router>
   )
 }
 
