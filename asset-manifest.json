@@ -1,7 +1,7 @@
 {
   "main.css": "/newswave/static/css/main.c0233087.chunk.css",
-  "main.js": "/newswave/static/js/main.3b9c701c.chunk.js",
-  "main.js.map": "/newswave/static/js/main.3b9c701c.chunk.js.map",
+  "main.js": "/newswave/static/js/main.ad3ed182.chunk.js",
+  "main.js.map": "/newswave/static/js/main.ad3ed182.chunk.js.map",
   "static/js/1.8a122903.chunk.js": "/newswave/static/js/1.8a122903.chunk.js",
   "static/js/1.8a122903.chunk.js.map": "/newswave/static/js/1.8a122903.chunk.js.map",
   "static/js/2.ff55685d.chunk.js": "/newswave/static/js/2.ff55685d.chunk.js",
@@ -11,6 +11,6 @@
   "static/media/Dual.gif": "/newswave/static/media/Dual.af6ada67.gif",
   "static/css/main.c0233087.chunk.css.map": "/newswave/static/css/main.c0233087.chunk.css.map",
   "index.html": "/newswave/index.html",
-  "precache-manifest.7b45deddbc9b5ef4742fd5a136c90d0c.js": "/newswave/precache-manifest.7b45deddbc9b5ef4742fd5a136c90d0c.js",
+  "precache-manifest.246922721e6c11a89486287eeec56391.js": "/newswave/precache-manifest.246922721e6c11a89486287eeec56391.js",
   "service-worker.js": "/newswave/service-worker.js"
 }
