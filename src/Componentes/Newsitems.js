@@ -4,8 +4,8 @@ const Newsitems = (props) => {
     let { title, description, Imageurl, url, publishedAt, author, source } = props;
 
     return (
-        <div className='container my-3'>
-            <div className="card" style={{ width: "18rem" }}>
+        <div className='container my-3  d-flex justify-content-center' style={{width:'auto',}}>
+            <div className="card " style={{ width: "20rem" }}>
                 <span className="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger" style={{
                     zIndex: "2"
                 }}>

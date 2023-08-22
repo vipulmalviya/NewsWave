@@ -62,7 +62,7 @@ const Newscomonents = (props) => {
       >
         <div className='container row my-3' style={{ overflow: 'hidden' }}>
           {articles.map((elem) => {
-            return <div className='col-md-3' key={elem.url}>
+            return <div className='col col col' key={elem.url}>
               <Newsitems title={!elem.title ? " " : elem.title.slice(0, 45)} description={!elem.description ? " " : elem.description.slice(0, 100)} Imageurl={elem.urlToImage} url={elem.url} publishedAt={elem.publishedAt} author={elem.author} source={elem.source.name} />
             </div>
           })}
