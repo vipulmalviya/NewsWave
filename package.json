@@ -1,6 +1,6 @@
 {
   "homepage": "https://vipulmalviya.github.io/newswave",
-  "name": "news-app",
+  "name": "newswave",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
